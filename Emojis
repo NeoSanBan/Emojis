@@ -1,4 +1,7 @@
-4811367829,
+4811367829
+Character:WaitForChild("Humanoid").DisplayName = "[👑⚒️]".. player.DisplayName,
+
 1521537819
+Character:WaitForChild("Humanoid").DisplayName = "[👑⚒️]".. player.DisplayName,
 
 
