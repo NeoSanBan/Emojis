@@ -1,14 +1,8 @@
-local Players = game:GetService("Players")
-game.Players.PlayerAdded:Connect(function(player)
-	local Character = player.Character or player.CharacterAdded:Wait()
 	if player.UserId == 1521537819 then
 		Character:WaitForChild("Humanoid").DisplayName = "[👑⚒️]".. player.Name
 	end
 end)
 
-
-game.Players.PlayerAdded:Connect(function(player)
-	local Character = player.Character or player.CharacterAdded:Wait()
 	if player.UserId == 4811367829 then
 		Character:WaitForChild("Humanoid").DisplayName = "[👑⚒️]".. player.Name
 	end
