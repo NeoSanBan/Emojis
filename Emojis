@@ -1,9 +1,3 @@
-if player.UserId == 1521537819 then
-Character:WaitForChild("Humanoid").DisplayName = "[👑⚒️]".. player.Name ---Raiders
-end
+4811367829
 
-
-if player.UserId == 4811367829 then
-Character:WaitForChild("Humanoid").DisplayName = "[👑⚒️]".. player.Name ---NeoSan
-end
 
