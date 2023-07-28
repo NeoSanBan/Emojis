@@ -1,2 +1,2 @@
 local Table = {4811367829,"[👑⚒️]","[👑]"}
-print(Table[2])
+print(Table[3])
